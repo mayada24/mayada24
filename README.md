@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on Web development
 - 📫 How to reach me: email: boucifmayada@gmail.com,  [Linkedin - Mayada ](https://www.linkedin.com/in/mayadaboucif/)<h3 align="left">Connect with me:</h3>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mayadaboucif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayadaboucif/" height="30" width="40" /></a>
@@ -16,5 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayada24&show_icons=true&locale=en" alt="mayada24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayada24&" alt="mayada24" /></p>
 
